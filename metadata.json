@@ -1,0 +1,10 @@
+{
+  "name": "ClimateReady - Sustainability & Climate Action Preparedness",
+  "description": "Hyperlocal climate resilience platform for heatwaves and extreme rainfall. Features heat & flood risk assessment, alert subscriptions, vulnerable-group emergency plans, 7-day calendar, offline PWA, community reports, and an AI ClimateReady Guide.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
